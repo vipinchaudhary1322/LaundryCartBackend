@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17e462f9.css",
+    "main.js": "/static/js/main.e31ec24c.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/tshirt.jpg": "/static/media/tshirt.06e6123b2ccbf532b32d.jpg",
+    "static/media/alert.JPG": "/static/media/alert.3ffe3b4e2fad92dc4425.JPG",
+    "static/media/towel.svg": "/static/media/towel.ebaf0ac05831365dfa25dfe7f4302dc1.svg",
+    "static/media/success.svg": "/static/media/success.a413ad0b4eb437b6ee3a1a4d4da1101d.svg",
+    "static/media/list.svg": "/static/media/list.1eb321f8377b6bf15b814257ac1c0cb0.svg",
+    "static/media/washing-machine-select.svg": "/static/media/washing-machine-select.61ecc76c0e12cafb6aafdb6fbb5b6d75.svg",
+    "static/media/washing-machine.svg": "/static/media/washing-machine.59126dcd426c889a4dfdb6760d341083.svg",
+    "static/media/iron-select.svg": "/static/media/iron-select.70cc1950c892aafeb0c99482cc76a9da.svg",
+    "static/media/ironing.svg": "/static/media/ironing.5a989631a83d1921b2a94bb1abb22049.svg",
+    "index.html": "/index.html",
+    "static/media/bleach-select.svg": "/static/media/bleach-select.e34b4a03f5d71fcf0d2fbc1d279a6998.svg",
+    "static/media/bleach.svg": "/static/media/bleach.bbdc6160321fe725ea5a2d7da64cba56.svg",
+    "static/media/home.svg": "/static/media/home.2695407b8721711c8f0e1e11daae0bb3.svg",
+    "static/media/lock.svg": "/static/media/lock.1ac3d3809a004c340a950554ae5dff43.svg",
+    "static/media/eye.svg": "/static/media/eye.f438b321e23e1f55382208b3349c9743.svg",
+    "static/media/search.svg": "/static/media/search.62fea213c24b6ab54f454c4a1c029630.svg",
+    "static/media/more.svg": "/static/media/more.13349c52c32e690c48adc91e4b662d08.svg",
+    "main.17e462f9.css.map": "/static/css/main.17e462f9.css.map",
+    "main.e31ec24c.js.map": "/static/js/main.e31ec24c.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17e462f9.css",
+    "static/js/main.e31ec24c.js"
+  ]
+}
